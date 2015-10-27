@@ -8,6 +8,7 @@ public class MainActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
+		//编辑了一下下,在服务器上
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 	}
